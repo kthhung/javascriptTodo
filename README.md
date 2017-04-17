@@ -16,7 +16,7 @@
       <img src = 'todo_add.png'>
     </th>
     <th>
-      <img src = 'todo_add.png'>
+      <img src = 'todo_edit.png'>
     </th>
   </tr>
 </table>
